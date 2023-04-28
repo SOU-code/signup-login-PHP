@@ -64,7 +64,7 @@ if($_SERVER['REQUEST_METHOD']=='POST'){
             </div>
             <button type="submit" class="btn btn-primary w-100">Sign Up</button>
         </form>
-        <div align="center" class="mt-2"><a href="sign.php" style="color:green;font-style:bold;text-decoration:none;">Already Have An Account!!</a></div>
+        <div align="center" class="mt-2"><a href="login.php" style="color:green;font-style:bold;text-decoration:none;">Already Have An Account!!</a></div>
     </div>
   </body>
 </html>
